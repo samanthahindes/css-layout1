@@ -21,6 +21,8 @@ body {
 
 .box img {
   border: 10px solid #3f0;
+  top: 10px;
+  left: 100px;
 }
 
 .box a.read-more {
