@@ -23,7 +23,7 @@ body {
   border: 10px solid #3f0;
   top: 10px;
   left: 500px;
-  position: absolute;
+  position: fixed;
 }
 
 .box a.read-more {
