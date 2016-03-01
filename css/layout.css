@@ -20,6 +20,8 @@ body {
 }
 
 .box {
+  top: 10px;
+  left: 0px;
 }
 
 .box:last-child {
