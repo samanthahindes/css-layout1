@@ -20,7 +20,10 @@ body {
 }
 
 .box {
-  top: 10px;
+  width: 30%;
+  float: left;
+  position: absolute;
+  top: 0px;
   left: 0px;
 }
 
