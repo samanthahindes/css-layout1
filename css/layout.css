@@ -36,6 +36,8 @@ body {
 }
 
 .box img {
+  position: relative;
+  width: 25%;
   top: 0px;
   left: 10px;
 
