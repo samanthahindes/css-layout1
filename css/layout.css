@@ -36,6 +36,8 @@ body {
 }
 
 .box img {
+  top: 0px;
+  left: 10px;
 
 }
 
