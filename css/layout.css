@@ -10,8 +10,9 @@ body {
   padding: 0px;
   top: 0px;
   left: 0px;
-  margin: 0px;
+  margin: 2%;
   z-index: 10;
+  
 }
 
 .heading h1 {
