@@ -7,11 +7,12 @@ body {
 .heading {
   position: fixed;
   width: 100%;
-  padding: 0px;
+  padding: 0 20px;
   top: 0px;
   left: 0px;
   margin: 0px;
   z-index: 10;
+  border-bottom: 2px solid #222;
   
 }
 
@@ -36,7 +37,7 @@ body {
 }
 
 .box img {
-
+  
 
 
 }
@@ -47,7 +48,11 @@ body {
 .footer {
   
   position: fixed;
-  top: 10px;
+  bottom: 0px;
   left: 10px;
+  width: 100%;
+  padding: 0 20px;
+  border-top: 2px solid #222;
+  
   
 }
