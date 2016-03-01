@@ -21,7 +21,7 @@ body {
 
 .box {
   width: 30%;
-  float: left;
+  float: right;
   position: relative;
   top: 0px;
   left: 0px;
