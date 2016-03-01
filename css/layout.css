@@ -46,4 +46,8 @@ body {
 
 .footer {
   
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  
 }
